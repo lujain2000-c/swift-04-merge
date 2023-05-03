@@ -1,2 +1,2 @@
-int p = 3 ;
+int p = 3+9 ;
 print(p);
